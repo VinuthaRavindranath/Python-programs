@@ -48,6 +48,9 @@ Welcome to the Programming Questions repository! This document outlines various 
 43. Prove that String is Immutable 🔒
 44. Find the Number of Palindrome Words in a Given String 🔁📝
 45. Sort List of Strings Without Using Any Inbuilt Methods 📚🔄
+46. Using list comprehension, convert the given list with the square of even numbers.  Given_list = `[1, 4, 3, 6, 8]` → result = `[1, 16, 3, 36, 64]` 🥳
+47. Calculate the product of all elements in the list except the current element.  list1 = `[1, 2, 3, 4]` → `[24, 12, 8, 6]` 🚀
+
 
 
 ## Lambda Functions 💻
@@ -69,9 +72,9 @@ Welcome to the Programming Questions repository! This document outlines various 
 
 ## Data Structures and Algorithms (DSA) 📊
 
-# Search Algorithms 🔍
-Linear Search ➡️
-Binary Search 🔍
+### Search Algorithms 🔍
+- Linear Search ➡️
+- Binary Search 🔍
 
-# Sorting Algorithms 🔄
-Bubble Sort 🛁
+### Sorting Algorithms 🔄
+- Bubble Sort 🛁
